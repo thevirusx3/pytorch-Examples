@@ -28,6 +28,7 @@ def test_network(net, trainloader):
     return True
 
 
+
 def imshow(image, ax=None, title=None, normalize=True):
     """Imshow for Tensor."""
     if ax is None:
